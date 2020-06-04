@@ -1,0 +1,80 @@
+body{
+    background-color: #ffffff;
+    font-size: 20px;
+    font-family: 'BenchNine', sans-serif;
+    font-weight: 400;
+}
+.tlo{
+    background-image: url(Zdjecia/nature-1264040_1920.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#Omnie{
+    position: absolute;
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    width: 100%;
+    height: 40px;
+    left: 89%;
+    top: 20px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 1px;
+}
+#logo{
+    position: absolute;
+    width:      100%;
+    height:     76px;
+    left:       155px;
+    top:        126px;
+    font-size:  46px;
+    line-height:75px;
+    color: rgba(255, 255, 255, 0.87);
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 2px;
+}
+#logo2{
+    position: absolute;
+    width:      100%;
+    height:     76px;
+    left:       198px;
+    top:        190px;
+    font-size:  46px;
+    line-height:75px;
+    color: rgba(255, 255, 255, 0.87);
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 2px;
+}
+#srodek{
+    position: absolute;
+    width: 1382px;
+    height: 233px;
+    left: 34px;
+    background: linear-gradient(180deg, rgba(196, 196, 196, 0.63) 
+    0%, rgba(196, 196, 196, 0) 100%);top: 791px;
+    text-align: center;
+}
+#stopka
+{
+	width: 100%;
+	height: 80px;
+	background-color: #000526;
+	font-size: 20px;
+    text-align: center;
+	color: rgba(255, 255, 255, 0.87);
+	padding-top: 40px;
+	text-transform: uppercase;
+	
+
+	border-top: 2px solid #33402a;
+    font-size: 23px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+ 
